@@ -34,9 +34,8 @@ To write a Python function `def insert(self, key, value):` to insert elements in
 
 ## PYTHON PROGRAM
 ```
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
-
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 class Node(object):
     
     def __init__(self, order):
